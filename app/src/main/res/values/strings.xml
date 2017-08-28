@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fitness4All</string>
+    <string name="successful_login">Login success</string>
+    <string name="unsuccessful_login">Login failed</string>
+    <string name="user_name">jdoe</string>
+    <string name="password">welcome1</string>
+    <string name="login">Login</string>
+</resources>
